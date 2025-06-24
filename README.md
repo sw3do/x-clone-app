@@ -68,7 +68,7 @@ dev_dependencies:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/sw3do/x-clone-app.git
-   cd x_clone
+   cd x-clone-app
    ```
 
 2. **Install dependencies**
